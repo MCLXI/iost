@@ -26,7 +26,7 @@
     "classnames": "^2.2.5",
     "dotenv": "^6.0.0",
     "dotenv-webpack": "^1.5.7",
-    "elliptic": "^6.4.1",
+    "elliptic": "^6.5.4",
     "gulp": "^4.0.0",
     "hash.js": "^1.1.7",
     "iost": "^0.1.17",
